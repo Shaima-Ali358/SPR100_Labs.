@@ -2,7 +2,7 @@
 
 **Course:** SPR100 — Introduction to Computer Systems and Security  
 **Duration:** 1 hour 45 minutes  
-**Due Date:** [Insert due date, 11:59 PM before next lab; 2 weeks if study/final week]  
+**Due Date:** 2026-01-21 23:59  
 **Weight:** 1% of final grade
 
 ---
