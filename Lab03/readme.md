@@ -4,7 +4,7 @@
 **Lab Number:** Lab03  
 **Weight:** 4% of final grade  
 **Duration:** 3 hours (this lab lasts two weeks: 2 lab sessions) 
-**Due Date:** [Insert due date] (11:59 PM before the start of the next lab session)
+**Due Date:** 2026/02/19 (11:59 PM before the start of the next lab session)
 
 ---
 
